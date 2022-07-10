@@ -24,43 +24,22 @@
 
 ## Skills
 **Main** :heart_eyes:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></link>
 
-<i title="PHP" class="devicon-php-plain" style="font-size:30px"></i>
-<i title="MySQL" class="devicon-mysql-plain" style="font-size:30px"></i>
-<i title="SQLite" class="devicon-sqlite-plain" style="font-size:30px"></i>
-<i title="HTML5" class="devicon-html5-plain" style="font-size:30px"></i>
-<i title="CSS3" class="devicon-css3-plain" style="font-size:30px"></i>
-<i title="JavaScript" class="devicon-javascript-plain" style="font-size:30px"></i>
-<i title="Bootstrap" class="devicon-bootstrap-plain" style="font-size:30px"></i>
-<i title="GIMP" class="devicon-gimp-plain" style="font-size:30px"></i>
-<i title="Inkscape" class="devicon-inkscape-plain" style="font-size:30px"></i>
-
-<!--- - Backend: PHP, MySQL, SQLite
+- Backend: PHP, MySQL, SQLite
 - Frontend: HTML5, CSS3, Bootstrap, JavaScript
-- Tools: GIMP, Inkscape, Sublime Text, Sublime Merge --->
+- Tools: GIMP, Inkscape, Sublime Text, Sublime Merge
 
 **Good, but not PRO** :sunglasses:
 
-<i title="Node.js" class="devicon-nodejs-plain" style="font-size:30px"></i>
-<i title="Vue.js" class="devicon-vuejs-plain" style="font-size:30px"></i>
-<i title="Vuetify" class="devicon-vuetify-plain" style="font-size:30px"></i>
-<i title="Nuxt.js" class="devicon-nuxtjs-plain" style="font-size:30px"></i>
-<i title="Sass" class="devicon-sass-plain" style="font-size:30px"></i>
-<i title="Visual Studio Code" class="devicon-vscode-plain" style="font-size:30px"></i>
-
-<!--- - Backend: Node.js
+- Backend: Node.js
 - Frontend: Vue.js, Vuetify, Nuxt.js, Sass
-- Tools: VSCode, Postman --->
+- Tools: Visual Studio Code, Postman
 
 **Learning** :innocent:
 
-<i title="Typescript" class="devicon-typescript-plain" style="font-size:30px"></i>
-<i title="Flutter" class="devicon-flutter-plain" style="font-size:30px"></i>
-
-<!--- - Backend: Typescript
+- Backend: Typescript
 - Frontend: Vue.js 3, Flutter
-- Tools: Krita, Blender --->
+- Tools: Krita, Blender
 
 ## Stats
 

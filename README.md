@@ -23,7 +23,7 @@
 - :computer: Web Developer for a better web
 - :rocket: Passionate about science and astronomy
 - :muscle: Currently learning Vue.js 3 superpowers
-- :elephant: PHP and JavaScript is my main languages
+- :elephant: PHP and JavaScript are my main languages
 
 <details>
   <summary><b>More facts about me</b></summary><br>

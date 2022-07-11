@@ -64,7 +64,7 @@
 
 <div align="center">
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkejunior&bg_color=1F222E&title_color=E83958&hide_border=true&text_color=9CA2B8&icon_color=F8D866&show_icons=true&hide_rank=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkejunior&bg_color=1F222E&title_color=E83958&hide_border=true&text_color=9CA2B8&icon_color=F8D866&show_icons=true&hide_rank=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkejunior&layout=compact&langs_count=6&bg_color=1F222E&title_color=E83958&hide_border=true&text_color=9CA2B8)](https://github.com/anuraghazra/github-readme-stats)
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parkejunior&theme=monokai-metallian&hide_border=true&ring=E83958&fire=E83958)](https://git.io/streak-stats)

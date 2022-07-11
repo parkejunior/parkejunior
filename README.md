@@ -19,7 +19,7 @@
 
 ## About me
 - :alien: I'm 23 years old
-- 🇧🇷 Brazilian
+- 🇧🇷 From São Paulo, Brazil
 - :computer: Web Developer for a better web
 - :rocket: Passionate about science and astronomy
 - :muscle: Currently learning Vue.js 3 superpowers

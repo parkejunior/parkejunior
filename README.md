@@ -26,12 +26,12 @@
 - :elephant: PHP and JavaScript is my main languages
 
 <details>
-  <summary><b>More facts about me</b></summary>
+  <summary><b>More facts about me</b></summary><br>
   <ul>
-      <li>🌱 Vegetarian</li>
-      <li>🐝 Bee lover</li>
-      <li>🚲 BMX rider</li>
-      <li>💚 DuoLingo player</li>
+    <li>🌱 Vegetarian</li>
+    <li>🐝 Bee lover</li>
+    <li>🚲 BMX rider</li>
+    <li>💚 DuoLingo player</li>
   </ul>
 </details>
 
@@ -42,17 +42,23 @@
 - Frontend: HTML5, CSS3, Bootstrap, JavaScript
 - Tools: GIMP, Inkscape, Sublime Text, Sublime Merge
 
-**Good, but not PRO** :sunglasses:
+<details>
+  <summary><b>Good, but not PRO 😎</b></summary><br>
+  <ul>
+    <li>Backend: Node.js</li>
+    <li>Frontend: Vue.js, Vuetify, Nuxt.js, Sass</li>
+    <li>Tools: Visual Studio Code, Postman</li>
+  </ul>
+</details>
 
-- Backend: Node.js
-- Frontend: Vue.js, Vuetify, Nuxt.js, Sass
-- Tools: Visual Studio Code, Postman
-
-**Learning** :innocent:
-
-- Backend: Typescript
-- Frontend: Vue.js 3, Flutter
-- Tools: Krita, Blender
+<details>
+  <summary><b>Learning 😇</b></summary><br>
+  <ul>
+    <li>Backend: Typescript</li>
+    <li>Frontend: Vue.js 3, Flutter</li>
+    <li>Tools: Krita, Blender</li>
+  </ul>
+</details>
 
 ## Stats
 

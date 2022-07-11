@@ -4,17 +4,30 @@
   I'm Patrick
 </h3>
 
+<br>
+<div align="center">
+  <a href="https://www.twitter.com/parkejunior">
+    <img src="https://img.shields.io/badge/twitter-%231ca0f1.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/patrickluan360">
+    <img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/patrickluan360">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+</div>
+
 ## About me
 - :alien: I'm 23 years old
 - 🇧🇷 Brazilian
 - :computer: Web Developer for a better web
 - :rocket: Passionate about science and astronomy
 - :muscle: Currently learning Vue.js 3 superpowers
-- :elephant: PHP and JavaScript is my main language
+- :elephant: PHP and JavaScript is my main languages
 
 <details>
   <summary><b>More facts about me</b></summary>
-  <ul style="margin-top:10px;">
+  <ul>
       <li>🌱 Vegetarian</li>
       <li>🐝 Bee lover</li>
       <li>🚲 BMX rider</li>

@@ -7,13 +7,13 @@
 <br>
 <div align="center">
   <a href="https://www.twitter.com/parkejunior">
-    <img src="https://img.shields.io/badge/twitter-%231ca0f1.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/twitter-%231F222E.svg?&style=for-the-badge&logo=twitter&logoColor=%23E83958" />
   </a>&nbsp;
   <a href="https://www.youtube.com/patrickluan360">
-    <img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/youtube-%231F222E.svg?&style=for-the-badge&logo=youtube&logoColor=%23E83958" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/patrickluan360">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%231F222E.svg?&style=for-the-badge&logo=linkedin&logoColor=%23E83958" />
   </a>&nbsp;
 </div>
 

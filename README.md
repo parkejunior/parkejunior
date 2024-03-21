@@ -18,7 +18,7 @@
 </div>
 
 ## About me
-- :alien: I'm 23 years old
+- :alien: I'm 25 years old
 - 🇧🇷 From São Paulo, Brazil
 - :computer: Web Developer for a better web
 - :rocket: Passionate about science and astronomy

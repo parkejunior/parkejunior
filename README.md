@@ -22,7 +22,7 @@
 - 🇧🇷 From São Paulo, Brazil
 - :computer: Web Developer for a better web
 - :rocket: Passionate about science and astronomy
-- :muscle: Currently learning Vue.js 3 superpowers
+- :muscle: Currently learning Tailiwind CSS and AWS superpowers
 - :elephant: PHP and JavaScript are my main languages
 
 <details>
@@ -32,31 +32,34 @@
     <li>🐝 Bee lover</li>
     <li>🚲 BMX rider</li>
     <li>💚 DuoLingo player</li>
+    <li>🚘 Gearhead</li>
+    <li>🎮 Streamer / Content Creator</li>
   </ul>
 </details>
 
 ## Skills
 **Main** :heart_eyes:
 
-- Backend: PHP, MySQL, SQLite
-- Frontend: HTML5, CSS3, Bootstrap, JavaScript
-- Tools: GIMP, Inkscape, Sublime Text, Sublime Merge
+- Languages: PHP, JavaScript, HTML5, CSS3, MySQL/MariaDB, SQLite, Python
+- Backend: SlimPHP, Symfony, ApiPlaform, Node.js, Nest.js, PHPUnit, Docker
+- Frontend: Vue.js 3, Nuxt.js 3, Tailwind CSS, Bootstrap, Flowbite
+- Tools: Visual Studio Code, GIMP, Inkscape, Sublime Text/Merge
 
 <details>
   <summary><b>Good, but not PRO 😎</b></summary><br>
   <ul>
-    <li>Backend: Node.js</li>
-    <li>Frontend: Vue.js, Vuetify, Nuxt.js, Sass</li>
-    <li>Tools: Visual Studio Code, Postman</li>
+    <li>Backend: Typescript, PostgresSQL, RabbitMQ, GraphQL, Jest</li>
+    <li>Frontend: Vuetify, Sass</li>
+    <li>Tools: Postman, Beekeeper Studio, OBS Studio</li>
   </ul>
 </details>
 
 <details>
   <summary><b>Learning 😇</b></summary><br>
   <ul>
-    <li>Backend: Typescript</li>
-    <li>Frontend: Vue.js 3, Flutter</li>
-    <li>Tools: Krita, Blender</li>
+    <li>Backend: CircuitPython, AWS DynamoDB, AWS Lambda, tmi.js</li>
+    <li>Frontend: Flutter</li>
+    <li>Tools: Blender, Google Cloud Platform, Amazon AWS</li>
   </ul>
 </details>
 
